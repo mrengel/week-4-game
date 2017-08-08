@@ -1,0 +1,22 @@
+body{
+	background-color: black;
+	font-family: 'Saira Extra Condensed', sans-serif;
+	color: white;
+	letter-spacing: 2px;
+}
+.Character{
+	height: 200px;
+	width: 200px;
+	padding: 0px 0px 0px 0px; 
+	border: solid 1px red;
+	background-color: white;
+}
+h2,h3{
+	margin: 0px 0px 0px 0px;
+	color: black;
+	font-family: 'Saira Extra Condensed', sans-serif;
+	letter-spacing: 2px;
+}
+.img{
+	border: solid 1px red;
+}
